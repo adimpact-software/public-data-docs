@@ -3,7 +3,8 @@ AdImpact Documentation supporting data services including Data Dictionaries
 
 ## Snowflake Marketplace Data Dictionary
 
-Industry ReportIndustry Advertising Occurrence Data
+#### Industry Report: 
+Industry Advertising Occurrence Data
 
 Data Dictionary
 
