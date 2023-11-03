@@ -8,8 +8,10 @@ Industry ReportIndustry Advertising Occurrence Data
 Data Dictionary
 
 | Field | Description |
-|---|---|---|
-| Advertiser | The brand or entity sponsoring the ad. |
+
+| :--------------------------: | :------------------------------------------------------------: |
+
+| Advertiser | The brand or entity sponsoring the ad.|
 | Advertiser Id | The unique numeric code assigned to curated advertisers. |
 | Affiliate | The network or affiliated network of the station of which the ad aired on. Select digital occurrences are denoted as ATV. |
 | Air Date | Date the ad occurred on. |
